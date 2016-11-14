@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <TextView
+        android:text="您可以与同一局域网内的设备进行照片和文件的传输"
+        android:textSize="35dp"
+        android:textColor="@color/blue"
+        android:layout_marginTop="70dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/btn_wifi"
+        android:text="开始使用"
+        android:textColor="@color/pink"
+        android:textSize="25dp"
+        android:background="@drawable/shape_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="70dp"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>

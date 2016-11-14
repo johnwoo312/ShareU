@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ShareU</string>
+
+    <string name="label_cancel">取消</string>
+    <string name="label_ok">确定</string>
+    <string name="permission_title_rationale">权限需求</string>
+    <string name="permission_read_storage_rationale">选择图片时需要读取权限</string>
+    <string name="permission_write_storage_rationale">拍照时需要存储权限</string>
+
+    <string name="enable_p2p_button">P2P On/Off</string>
+    <string name="discover_peers_button">搜索</string>
+    <string name="connect_peer_button">连接</string>
+    <string name="disconnect_peer_button">断开连接</string>
+    <string name="get_file_button">共享</string>
+    <string name="empty"></string>
+    <string name="yes">是</string>
+    <string name="no">不是</string>
+    <string name="client_text">请点击"共享"按钮从本地发送文件或者图片</string>
+    <string name="empty_message">没有发现设备，请打开P2P服务以搜索设备。</string>
+    <string name="p2p_off_warning">请确保你的Wi-Fi已经打开</string>
+    <string name="group_owner_text">"我是共享方吗？"</string>
+    <string name="label_me">我的设备</string>
+    <string name="label_peers">wuzejun</string>
+</resources>
